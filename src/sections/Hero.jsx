@@ -5,7 +5,7 @@ import CanvasLoader from "../components/CanvasLoader";
 import { useMediaQuery } from "react-responsive";
 import { PerspectiveCamera } from "@react-three/drei";
 import { Level, Sudo, Camera, Cactus, Box } from "../components/Scene";
-import Target from "../components/target";
+import Target from "../components/Target";
 import HeroCamera from "../components/HeroCamera";
 import ReactLogo from "../components/ReactLogo";
 import Diamond from "../components/Diamond";
