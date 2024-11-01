@@ -19,7 +19,7 @@ This project is a 3D portfolio website built using **React.js**, **Three.js**, a
 - Custom 3D models for showcasing portfolio items
 
 ## Demo
-[Click Here](portfolio-3d-trananh.netlify.app) to check the website
+[Click Here](https://portfolio-3d-trananh.netlify.app/) to check the website
 
 ### Pictures
 
