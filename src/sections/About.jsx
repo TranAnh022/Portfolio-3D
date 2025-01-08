@@ -164,6 +164,17 @@ const About = () => {
                 I love solving problem and building things through code. Coding
                 isn't just my profession - it is my passion.
               </p>
+              <p className="grid-subtext">
+                Check my work here :
+                <a
+                  className="cursor-pointer text-red-300"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://github.com/TranAnh022"
+                >
+                  {" "}https://github.com/TranAnh022
+                </a>
+              </p>
             </div>
           </div>
         </div>
